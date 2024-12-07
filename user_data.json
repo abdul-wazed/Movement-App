@@ -1,0 +1,22 @@
+{
+    "ruble@abc.com": {
+        "first_name": "Ruble",
+        "last_name": "Hossain",
+        "dob": "01-01-2000",
+        "gender": "M",
+        "email": "ruble@abc.com",
+        "username": "ruble@abc.com",
+        "password": "rubhos01",
+        "registration_date": "2024-12-07 21:25:38"
+    },
+    "raju@abc.com": {
+        "first_name": "Raju",
+        "last_name": "Ahmed",
+        "dob": "09-09-2001",
+        "gender": "M",
+        "email": "raju@abc.com",
+        "username": "raju@abc.com",
+        "password": "rajahm09",
+        "registration_date": "2024-12-07 21:28:53"
+    }
+}
